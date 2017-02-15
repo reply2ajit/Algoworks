@@ -1,0 +1,7 @@
+# gitignore file to ignore the unwanted files to be checked in
+*.class
+*.classpath
+*.project
+*.prefs
+.metadata/
+.recommenders/
